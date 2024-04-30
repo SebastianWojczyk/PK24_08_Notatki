@@ -1,0 +1,11 @@
+d:\student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\bin\Debug\Notatki.exe.config
+d:\student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\bin\Debug\Notatki.exe
+d:\student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\bin\Debug\Notatki.pdb
+d:\student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\obj\Debug\Notatki.csprojResolveAssemblyReference.cache
+d:\student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\obj\Debug\Notatki.Form1.resources
+d:\student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\obj\Debug\Notatki.Properties.Resources.resources
+d:\student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\obj\Debug\Notatki.csproj.GenerateResource.Cache
+d:\student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\obj\Debug\Notatki.exe
+d:\student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\obj\Debug\Notatki.pdb
+d:\Student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\bin\Debug\DB.mdf
+d:\Student\dokumenty\visual studio 2015\Projects\Notatki\Notatki\bin\Debug\DB_log.ldf
